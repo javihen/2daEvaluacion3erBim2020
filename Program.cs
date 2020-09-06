@@ -56,6 +56,7 @@ namespace _2daEvaluacion3erBim
                 else
                 {
                     reprobados++;
+                    //Aqui podremos realizar nuevas capturas
                 }
             }
             int porcentaje = (reprobados * 100) / N;
